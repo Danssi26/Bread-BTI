@@ -142,4 +142,4 @@ for i in range(len(df)):
         review_num = 0 
         
     # 데이터 프레임 만들기
-    df_result[f"{restaurant_name}"] = review_list.copy()
+    df_result[f"{restaurant_name}"] = review_list.copy() 
