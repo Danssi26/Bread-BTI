@@ -1,21 +1,22 @@
 # 빵BTI 🥐
-<center><img src="https://user-images.githubusercontent.com/109575863/203251753-4d6cfc25-2ee0-4c28-8dff-d9478c7f294e.png" width="350" height="350"/></center>
-개인의 입맛과 성향에 맞는 빵 맛집 추천서비스
+<p align = "center"><img src="https://user-images.githubusercontent.com/109575863/203251753-4d6cfc25-2ee0-4c28-8dff-d9478c7f294e.png" width="350" height="350"/></p>
+<p align = "center">개인의 입맛과 성향에 맞는 빵 맛집 추천서비스</p>
 <br>
 <br>
 
-MBTI 테스트 유형을 차용하여 쉽고, 재미있고, 편하게 <br> 
-**빵 입맛 유형을 알아보고 추천 빵집 리스트 받아보기**
+<p align = "center">MBTI 테스트 유형을 차용하여 쉽고, 재미있고, 편하게 <br> 
+**빵 입맛 유형을 알아보고 추천 빵집 리스트 받아보기**</p>
 
 
 <br>
 
-[🥐 빵BTI 유형테스트 하러가기 🥐](https://bbangbti.waveon.io/)
+<p align = "center"><a href = "https://bbangbti.waveon.io/">[🥐 빵BTI 유형테스트 하러가기 🥐]</a></p>
+
+
 
 <br>
 
-![테스트부분](https://user-images.githubusercontent.com/109575863/203253394-5d33736c-0e95-446c-913e-ce5d68867f69.gif)
-
+<p align = "center"><img src="https://user-images.githubusercontent.com/109575863/203253394-5d33736c-0e95-446c-913e-ce5d68867f69.gif" width="350"/></p>
 
 <br>
 
