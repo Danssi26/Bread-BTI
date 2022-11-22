@@ -5,12 +5,12 @@
 <br>
 
 <p align = "center">MBTI 테스트 유형을 차용하여 쉽고, 재미있고, 편하게 <br> 
-**빵 입맛 유형을 알아보고 추천 빵집 리스트 받아보기**</p>
+<b>빵 입맛 유형을 알아보고 추천 빵집 리스트 받아보기</b></p>
 
 
 <br>
 
-<p align = "center"><a href = "https://bbangbti.waveon.io/">[🥐 빵BTI 유형테스트 하러가기 🥐]</a></p>
+<p align = "center"><a href = "https://bbangbti.waveon.io/">🥐 빵BTI 유형테스트 하러가기 🥐</a></p>
 
 
 
